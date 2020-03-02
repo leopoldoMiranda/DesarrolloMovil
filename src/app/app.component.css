@@ -1,0 +1,9 @@
+h1{
+    width: 900px;
+    text-align: center;
+    color: white;
+    border:solid 3px sandybrown;
+    background-color: dodgerblue;
+    margin: auto;
+    margin-bottom: 30px;
+}

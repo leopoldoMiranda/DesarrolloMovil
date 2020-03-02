@@ -1,0 +1,24 @@
+button{
+    background-color: dodgerblue;
+    color: white;
+    display: block;
+    height: 40px;
+    border:solid 3px sandybrown;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 10px;
+
+}
+
+input{
+    background-color: rgb(247, 238, 165);
+}
+
+div{
+    width: 500px;
+    /* border: solid 3px red; */
+    text-align: center;
+    margin: auto;
+    margin-bottom: 15px;
+
+}

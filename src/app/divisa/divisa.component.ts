@@ -8,7 +8,8 @@ import { Component, OnInit } from '@angular/core';
 
 export class DivisaComponent implements OnInit {
   dlls;
-
+  pesosInput;
+  
   onConversion(value){
     this.dlls = value/18;
     console.log("resultado " + this.dlls);

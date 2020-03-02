@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 
 
 export class MedidasComponent implements OnInit {
-  
+  cmInput;
   mts;
   
   onConversion(value){

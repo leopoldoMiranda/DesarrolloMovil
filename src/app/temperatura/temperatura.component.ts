@@ -8,6 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class TemperaturaComponent implements OnInit {
 
   fahrenheit;
+  centigradosInput;
 
   onConversion(cInput){
     this.fahrenheit = (cInput  * 1.8) +32
